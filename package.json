@@ -1,0 +1,17 @@
+{
+  "name": "proteus",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "big.js": "^6.1.1",
+    "ethers": "^5.6.2"
+  }
+}
